@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 
-//add esses imports
 import { FormGroup } from '@angular/forms';
 import { ActivatedRoute, Router } from '@angular/router';
 import { FormlyFieldConfig } from '@ngx-formly/core';

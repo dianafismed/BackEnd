@@ -19,6 +19,6 @@ import { FormsModule } from '@angular/forms';
     FormsModule,
   ]
 })
-export class UserModule { 
+export class UserModule {
 
 }
